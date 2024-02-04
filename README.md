@@ -1,5 +1,5 @@
 # Brute-IG
-![template_s](https://github.com/LuciverXploit/Brute-IG/blob/main/20240202_172107.jpg)
+![template_s](https://github.com/LuciverXploit/SaitamaV2/blob/main/img/20240205_060344.jpg)
 # PENGERTIAN BRUTE FORCE INSTAGRAM
 ### Bruteforce Instagram merujuk pada upaya untuk memasuki akun Instagram seseorang dengan mencoba berbagai kombinasi kata sandi secara otomatis. Penyerang mencoba kombinasi tersebut hingga menemukan yang benar, yang dapat membahayakan keamanan akun dan melanggar kebijakan penggunaan Instagram.
 # CONTOHNYA
