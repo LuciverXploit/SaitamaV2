@@ -19,8 +19,8 @@
   ### JALANKAN ULANG SCRIPTNYA
   
     ```
-    >> cd Brute-IG
-    >> python luciku.py
+    >> cd SaitamaV2
+    >> python Saitama.py
     ```
 # SCREENSHOT
 ### Tampilan
