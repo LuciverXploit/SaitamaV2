@@ -12,6 +12,7 @@
   >> apt update -y && apt upgrade -y
   >> apt install python
   >> pkg install git python-pip
+  >> pkg install play-audio
   >> git clone --depth 1 https://github.com/LuciverXploit/SaitamaV2.git
   >> cd SaitamaV2
   >> python Saitama.py
@@ -28,6 +29,6 @@
 ### Metode
 ![template_s](https://github.com/LuciverXploit/SaitamaV2/blob/main/img/Picsart_24-02-05_05-51-08-424.jpg)
 # INFORMASI SCRIPT
-### Saitama Crack Adalah Script Crack FB dari Brayen yang di modifikasi oleh LuciverXploit Yang terinspirasi daru anime dari One Puch Man.
+### Saitama Crack Adalah Script Crack FB dari Brayen yang di modifikasi oleh LuciverXploit Yang terinspirasi dari anime dari One Puch Man.
 # DONASI 
 ### HUBUNGI LUCIVERXPLOIT DI GMAILNYA YANG ADA DI HALAMAN DEPAN
